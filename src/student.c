@@ -184,10 +184,7 @@ void searchStudentByAdmissionNo(Student* student, int studentCount, const char* 
 
     if(!found)
     {
-        printf("No student found with admission number: %s\n", admissionNo);
-        // Debug
-        //printf("Stored: '%s'\n", student[i].admission_no);
-        //printf("Search: '%s'\n", admissionNo);
+        printf("No student found with admission number: %s\n", admissionNo);       
     }
 }
 

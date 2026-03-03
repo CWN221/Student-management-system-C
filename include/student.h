@@ -18,7 +18,6 @@ typedef struct {
 
 void addStudent(Student* student);
 void deleteStudent(Student* student, int* studentCount, const char* admissionNo);
-void updateStudent();
 void displayStudent(Student* student);
 void viewAllStudents(Student* student);
 void searchStudentByAdmissionNo(Student* student, int studentCount, const char* admissionNo);

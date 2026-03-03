@@ -10,3 +10,6 @@ main
 
 # Temporary files
 *.log
+
+#Logs
+error_log.txt

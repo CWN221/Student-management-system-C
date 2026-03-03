@@ -36,6 +36,8 @@ void errorLog(const char* errorMessage)
     fclose(logfile);
 }
 
+
+
 /*
     Method to save new student to file
 */
